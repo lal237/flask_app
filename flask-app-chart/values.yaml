@@ -153,4 +153,4 @@ tolerations: []
 
 affinity: {}
 appConfig:
-  color: "red"
+  color: "green"
